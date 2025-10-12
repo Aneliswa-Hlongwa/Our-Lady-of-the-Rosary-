@@ -388,7 +388,7 @@ div.container{
     }
 
     // Responsive Design
-    @media (max-width: 768px) { 
+   /* @media (max-width: 768px) { 
       .cards {
         flex-direction: column;
         align-items: center;
@@ -403,4 +403,5 @@ div.container{
         font-size: 2em;
       }
     }
-    
+    */
+
