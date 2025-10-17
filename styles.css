@@ -546,6 +546,7 @@ color: blue;
 
 .news-card img {
     width: 100%;
+    height: 50%;
     object-fit: cover;
     border-radius: 5px;
 }
@@ -602,4 +603,5 @@ color: blue;
   .nav-bar h1 {
     font-size: 26px;
   }
+
 }
